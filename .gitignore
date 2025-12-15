@@ -1,0 +1,10 @@
+node_modules
+.idea
+.next
+.env
+touch
+*.log
+*.crt
+*.key
+*.pm2
+*.sh
